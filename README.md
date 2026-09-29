@@ -8,3 +8,8 @@ DES menggunakan metode kriptografi kunci simetris dengan algoritma bernama Feist
 4. Substitusi (S-Box) & Permutasi (P-Box): Di dalam setiap ronde, terjadi proses substitusi (mengganti nilai bit menggunakan tabel S-Box) dan permutasi (mengacak kembali posisi bit menggunakan P-Box). Ini adalah inti dari pengacakan yang membuatnya sulit ditembus.
 
 5. Permutasi Akhir (FP): Setelah 16 ronde selesai, posisi bit diacak kembali untuk terakhir kalinya sebelum menghasilkan teks Ter Sandi (ciphertext).
+
+
+alur program : 
+
+<img width="502" height="2052" alt="alur_DES" src="https://github.com/user-attachments/assets/be17ae0d-1cd4-4782-b9a5-e441dc1f920a" />
